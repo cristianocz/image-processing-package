@@ -1,17 +1,17 @@
 # package_name
 
 Description. 
-The package package_name is used to:
+The package IMAGEM_CCC is used to:
 	- Processing images
 	- Combination Images
 	- TRansformation Images
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install IMAGEM_CCC
 
 ```bash
-pip install package_name
+pip install IMAGEM_CCC
 ```
 
 ```

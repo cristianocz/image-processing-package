@@ -7,7 +7,7 @@ with open("requirements.txt", "r") as f:
     requirements = f.read().splitlines()
     
 setup(
-    name="package_name",
+    name="IMAGEM_CCC",
     version="0.0.1",
     author="Cristiano Cezar",
     description="Image classification using PyTorch",
